@@ -1,0 +1,743 @@
+2025-05-08 17:54:54,966 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:54:54,967 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:54:54,967 - INFO - Connector started
+2025-05-08 17:55:17,425 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:55:17,425 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:55:17,426 - INFO - Connector started
+2025-05-08 17:57:26,682 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:57:26,682 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:57:26,683 - INFO - Connector started
+2025-05-08 17:59:35,467 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:59:35,467 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 17:59:35,468 - INFO - Connector started
+2025-05-08 18:07:47,122 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 18:07:47,123 - INFO - Starting EEG to Chatbot connector...
+2025-05-08 18:07:47,124 - INFO - Connector started
+2025-05-08 18:21:11,101 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:13,150 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:15,207 - INFO - Sent healing techniques message
+2025-05-08 18:21:18,262 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:20,324 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:22,365 - INFO - Sent healing techniques message
+2025-05-08 18:21:25,418 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:27,477 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:29,562 - INFO - Sent healing techniques message
+2025-05-08 18:21:32,612 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:34,677 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:36,732 - INFO - Sent healing techniques message
+2025-05-08 18:21:39,783 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:41,847 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:43,895 - INFO - Sent healing techniques message
+2025-05-08 18:21:47,028 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:49,084 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:51,154 - INFO - Sent healing techniques message
+2025-05-08 18:21:54,232 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:21:56,270 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:21:58,350 - INFO - Sent healing techniques message
+2025-05-08 18:22:01,431 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:03,506 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:05,561 - INFO - Sent healing techniques message
+2025-05-08 18:22:08,620 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:10,672 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:12,720 - INFO - Sent healing techniques message
+2025-05-08 18:22:15,777 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:17,826 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:19,869 - INFO - Sent healing techniques message
+2025-05-08 18:22:22,923 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:24,980 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:27,019 - INFO - Sent healing techniques message
+2025-05-08 18:22:30,081 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:32,129 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:34,213 - INFO - Sent healing techniques message
+2025-05-08 18:22:37,280 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:39,325 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:41,382 - INFO - Sent healing techniques message
+2025-05-08 18:22:44,443 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:46,506 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:48,542 - INFO - Sent healing techniques message
+2025-05-08 18:22:51,603 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:22:53,650 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:22:55,707 - INFO - Sent healing techniques message
+2025-05-08 18:22:58,775 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:00,840 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:02,897 - INFO - Sent healing techniques message
+2025-05-08 18:23:05,968 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:08,014 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:10,057 - INFO - Sent healing techniques message
+2025-05-08 18:23:13,105 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:15,157 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:17,226 - INFO - Sent healing techniques message
+2025-05-08 18:23:20,270 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:22,315 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:24,377 - INFO - Sent healing techniques message
+2025-05-08 18:23:27,415 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:29,464 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:31,539 - INFO - Sent healing techniques message
+2025-05-08 18:23:34,571 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:36,632 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:38,711 - INFO - Sent healing techniques message
+2025-05-08 18:23:41,771 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:43,812 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:45,895 - INFO - Sent healing techniques message
+2025-05-08 18:23:48,950 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:51,019 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:23:53,096 - INFO - Sent healing techniques message
+2025-05-08 18:23:56,157 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:23:58,231 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:00,304 - INFO - Sent healing techniques message
+2025-05-08 18:24:03,380 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:05,452 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:07,529 - INFO - Sent healing techniques message
+2025-05-08 18:24:10,595 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:12,670 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:14,756 - INFO - Sent healing techniques message
+2025-05-08 18:24:17,804 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:19,891 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:21,949 - INFO - Sent healing techniques message
+2025-05-08 18:24:24,992 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:27,062 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:29,134 - INFO - Sent healing techniques message
+2025-05-08 18:24:32,209 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:34,272 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:36,322 - INFO - Sent healing techniques message
+2025-05-08 18:24:39,357 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:41,414 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:43,476 - INFO - Sent healing techniques message
+2025-05-08 18:24:46,537 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:48,579 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:50,641 - INFO - Sent healing techniques message
+2025-05-08 18:24:53,700 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:24:55,756 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:24:57,823 - INFO - Sent healing techniques message
+2025-05-08 18:25:00,880 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:02,927 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:05,007 - INFO - Sent healing techniques message
+2025-05-08 18:25:08,071 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:10,115 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:12,157 - INFO - Sent healing techniques message
+2025-05-08 18:25:15,200 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:17,249 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:19,321 - INFO - Sent healing techniques message
+2025-05-08 18:25:22,346 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:24,411 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:26,453 - INFO - Sent healing techniques message
+2025-05-08 18:25:29,517 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:31,574 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:33,609 - INFO - Sent healing techniques message
+2025-05-08 18:25:36,681 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:38,722 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:40,795 - INFO - Sent healing techniques message
+2025-05-08 18:25:43,874 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:45,915 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:47,976 - INFO - Sent healing techniques message
+2025-05-08 18:25:51,064 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:25:53,130 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:25:55,175 - INFO - Sent healing techniques message
+2025-05-08 18:26:03,247 - ERROR - Request error: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=5)
+2025-05-08 18:26:11,338 - ERROR - Request error: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=5)
+2025-05-08 18:26:14,409 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:16,454 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:26:18,505 - INFO - Sent healing techniques message
+2025-05-08 18:26:21,541 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:23,597 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:26:25,649 - INFO - Sent healing techniques message
+2025-05-08 18:26:28,700 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:30,769 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:26:32,819 - INFO - Sent healing techniques message
+2025-05-08 18:26:35,882 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:37,956 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:26:40,020 - INFO - Sent healing techniques message
+2025-05-08 18:26:43,074 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:45,144 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:26:47,174 - INFO - Sent healing techniques message
+2025-05-08 18:26:50,237 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:52,287 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:26:54,337 - INFO - Sent healing techniques message
+2025-05-08 18:26:57,383 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:26:59,414 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:01,465 - INFO - Sent healing techniques message
+2025-05-08 18:27:04,512 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:06,539 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:08,586 - INFO - Sent healing techniques message
+2025-05-08 18:27:11,622 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:13,657 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:15,711 - INFO - Sent healing techniques message
+2025-05-08 18:27:18,790 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:20,835 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:22,885 - INFO - Sent healing techniques message
+2025-05-08 18:27:25,944 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:28,002 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:30,060 - INFO - Sent healing techniques message
+2025-05-08 18:27:33,125 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:35,143 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:37,184 - INFO - Sent healing techniques message
+2025-05-08 18:27:40,212 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:42,254 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:44,316 - INFO - Sent healing techniques message
+2025-05-08 18:27:47,352 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:49,409 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:51,473 - INFO - Sent healing techniques message
+2025-05-08 18:27:54,500 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:27:56,567 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:27:58,656 - INFO - Sent healing techniques message
+2025-05-08 18:28:01,698 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:03,753 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:05,794 - INFO - Sent healing techniques message
+2025-05-08 18:28:08,857 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:10,891 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:12,935 - INFO - Sent healing techniques message
+2025-05-08 18:28:15,986 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:18,019 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:20,117 - INFO - Sent healing techniques message
+2025-05-08 18:28:23,208 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:25,265 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:27,341 - INFO - Sent healing techniques message
+2025-05-08 18:28:30,404 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:32,464 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:34,517 - INFO - Sent healing techniques message
+2025-05-08 18:28:37,584 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:39,624 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:41,670 - INFO - Sent healing techniques message
+2025-05-08 18:28:44,768 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:46,817 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:48,858 - INFO - Sent healing techniques message
+2025-05-08 18:28:51,922 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:28:53,976 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:28:56,018 - INFO - Sent healing techniques message
+2025-05-08 18:28:59,129 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:01,174 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:03,226 - INFO - Sent healing techniques message
+2025-05-08 18:29:06,310 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:08,343 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:10,395 - INFO - Sent healing techniques message
+2025-05-08 18:29:13,458 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:15,517 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:17,582 - INFO - Sent healing techniques message
+2025-05-08 18:29:20,631 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:22,706 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:24,756 - INFO - Sent healing techniques message
+2025-05-08 18:29:27,819 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:29,877 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:31,943 - INFO - Sent healing techniques message
+2025-05-08 18:29:35,022 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:37,075 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:39,141 - INFO - Sent healing techniques message
+2025-05-08 18:29:42,180 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:44,235 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:46,278 - INFO - Sent healing techniques message
+2025-05-08 18:29:49,343 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:51,391 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:29:53,422 - INFO - Sent healing techniques message
+2025-05-08 18:29:56,466 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:29:58,532 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:00,575 - INFO - Sent healing techniques message
+2025-05-08 18:30:03,605 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:05,640 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:07,692 - INFO - Sent healing techniques message
+2025-05-08 18:30:10,755 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:12,803 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:14,860 - INFO - Sent healing techniques message
+2025-05-08 18:30:17,904 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:19,960 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:22,008 - INFO - Sent healing techniques message
+2025-05-08 18:30:25,048 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:27,089 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:29,135 - INFO - Sent healing techniques message
+2025-05-08 18:30:32,211 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:34,237 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:36,312 - INFO - Sent healing techniques message
+2025-05-08 18:30:39,399 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:41,439 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:43,482 - INFO - Sent healing techniques message
+2025-05-08 18:30:46,529 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:48,592 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:50,641 - INFO - Sent healing techniques message
+2025-05-08 18:30:53,707 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:30:55,764 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:30:57,801 - INFO - Sent healing techniques message
+2025-05-08 18:31:00,836 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:02,870 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:04,927 - INFO - Sent healing techniques message
+2025-05-08 18:31:07,979 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:10,043 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:12,101 - INFO - Sent healing techniques message
+2025-05-08 18:31:15,153 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:17,210 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:19,265 - INFO - Sent healing techniques message
+2025-05-08 18:31:22,340 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:24,403 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:26,452 - INFO - Sent healing techniques message
+2025-05-08 18:31:29,530 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:31,595 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:33,641 - INFO - Sent healing techniques message
+2025-05-08 18:31:36,693 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:38,741 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:40,787 - INFO - Sent healing techniques message
+2025-05-08 18:31:43,849 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:45,904 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:47,970 - INFO - Sent healing techniques message
+2025-05-08 18:31:51,019 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:31:53,078 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:31:55,141 - INFO - Sent healing techniques message
+2025-05-08 18:31:58,224 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:32:00,296 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:32:02,359 - INFO - Sent healing techniques message
+2025-05-08 18:32:05,427 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-05-08 18:32:07,479 - INFO - Sent counseling message: I'm noticing some unusual patterns in your brain a...
+2025-05-08 18:32:09,540 - INFO - Sent healing techniques message
+2025-05-08 18:32:12,617 - ERROR - Failed to send emotion: 405 - <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+

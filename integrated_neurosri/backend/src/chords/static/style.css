@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1 {
+    font-size: 48px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ec4899, #a855f7, #3b82f6, #ec4899);
+    background-size: 300%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: scroll-gradient 5s linear infinite;
+}
+
+/* Keyframes for scrolling the gradient */
+@keyframes scroll-gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
+.subtitle {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: -10px;
+}
+
+.heart {
+    color: #a855f7;
+    font-size: 1.2em;
+}
+
+.controls button {
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to right, #ec4899, #a855f7, #3b82f6);
+    color: #fffffe;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+button:disabled {
+    background: rgb(105, 206, 105);
+    cursor: not-allowed;
+}
+
+.app-buttons {
+    margin-top: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.app-buttons form {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px; /* Spacing between buttons */
+}
+
+.app-buttons button {
+    width: 200px;
+    height: 80px;
+    margin: 10px;
+    font-size: 17px; /* Larger font size */
+    font-weight: medium;
+    border-radius: 10px; /* Rounded edges */
+    border: none;
+    color: #333; /* Font color */
+    cursor: pointer;
+    background-color: #fffffe;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.app-buttons button:active {
+    transform: scale(1.05);
+    background-color: rgb(105, 206, 105);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    color: white;
+    cursor: not-allowed;
+}
+
+.lsl-disabled button {
+    cursor: not-allowed;
+}
+
+button.running {
+    background-color: rgb(105, 206, 105);
+    cursor: not-allowed;
+    color: white;
+}
+
+button.not-running {
+    background-color: #fffffe;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 2px solid #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    text-align: center;
+    animation: fade-out 3s forwards;
+}
+
+.bottom-text {
+    position: fixed;
+    bottom: 1px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 13px;
+}
+
+@keyframes fade-out {
+    0% { opacity: 1; }
+    80% { opacity: 1; }
+    100% { opacity: 0; visibility: hidden; }
+}
